@@ -84,7 +84,7 @@
 </main>
 
 <style>
-  body {
+  main {
     margin: 0;
     padding: 0;
   }
